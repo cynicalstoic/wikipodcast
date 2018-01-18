@@ -33,6 +33,8 @@ namespace wikicast
             dayNews = GetDayNews(HTMLRaw, prev1date, prev2date);
             WriteFile(newsFile, dayNews,false);
             WriteFile(newsTextFile, SimplifyNews(dayNews),false);
+
+
         }
         static string GetWebContents(string url)
         {
