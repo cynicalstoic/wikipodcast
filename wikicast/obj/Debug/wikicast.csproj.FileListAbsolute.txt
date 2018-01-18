@@ -1,0 +1,7 @@
+C:\Users\swaddy\source\repos\wikicast\wikicast\bin\Debug\wikicast.exe.config
+C:\Users\swaddy\source\repos\wikicast\wikicast\bin\Debug\wikicast.exe
+C:\Users\swaddy\source\repos\wikicast\wikicast\bin\Debug\wikicast.pdb
+C:\Users\swaddy\source\repos\wikicast\wikicast\obj\Debug\wikicast.csprojResolveAssemblyReference.cache
+C:\Users\swaddy\source\repos\wikicast\wikicast\obj\Debug\wikicast.csproj.CoreCompileInputs.cache
+C:\Users\swaddy\source\repos\wikicast\wikicast\obj\Debug\wikicast.exe
+C:\Users\swaddy\source\repos\wikicast\wikicast\obj\Debug\wikicast.pdb
